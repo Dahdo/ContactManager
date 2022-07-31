@@ -1,1 +1,1 @@
-This a typical phone contact manager
+This is a typical phone contact manager
